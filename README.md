@@ -1,6 +1,3 @@
-#DataVisulization
-##Install dependencies:
-npm install
-Start the development server:
-npm start
-   
+# Data Visualization
+
+A React project focused on creating dynamic and interactive data visualizations.
